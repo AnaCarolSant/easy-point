@@ -76,3 +76,5 @@ localhost:8080/api/pontos?funcionario=Ricardo
 TESTAR PAGINAÇÃO ORDENADA
 localhost:8080/api/pontos?funcionario=João&dataInicio=2025-04-01&dataFim=2025-04-30&page=0&size=5&sortBy=data&sortDirection=desc
 
+localhost:8080/api/pontos?page=0&size=100
+
